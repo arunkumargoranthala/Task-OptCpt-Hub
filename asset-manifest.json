@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Task-OptCpt-Hub/static/css/main.bc3c9e12.css",
+    "main.js": "/Task-OptCpt-Hub/static/js/main.3e2c8c13.js",
+    "static/js/556.6227d528.chunk.js": "/Task-OptCpt-Hub/static/js/556.6227d528.chunk.js",
+    "index.html": "/Task-OptCpt-Hub/index.html",
+    "main.bc3c9e12.css.map": "/Task-OptCpt-Hub/static/css/main.bc3c9e12.css.map",
+    "main.3e2c8c13.js.map": "/Task-OptCpt-Hub/static/js/main.3e2c8c13.js.map",
+    "556.6227d528.chunk.js.map": "/Task-OptCpt-Hub/static/js/556.6227d528.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc3c9e12.css",
+    "static/js/main.3e2c8c13.js"
+  ]
+}
