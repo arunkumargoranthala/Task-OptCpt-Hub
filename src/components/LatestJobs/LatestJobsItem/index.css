@@ -48,3 +48,11 @@
     font-size: 13px;
     margin-left: 3px;
 }
+
+@media(max-width: 1262px) {
+    .LatestJobsItem {
+        width: 98%;
+        margin-top: 20px;
+    }
+
+}

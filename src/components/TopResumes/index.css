@@ -65,3 +65,9 @@
 .premium{
     margin-left: 5px;
 }
+
+@media(max-width: 890px) {
+    .TopResumes-header{
+        flex-direction: column;
+    }
+}

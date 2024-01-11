@@ -26,3 +26,9 @@
 .h-imagee{
     margin-top: 40px;
 }
+
+@media(max-width: 800px) {
+    .h-imagee{
+        display: none;
+    }
+}

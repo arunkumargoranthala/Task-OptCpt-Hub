@@ -28,7 +28,6 @@
 }
 
 .latest-jobs-heading-div{
-    
     display: flex;
     justify-content: space-between;
 }
@@ -73,4 +72,25 @@
 
 .GD-image{
     width: 100%;
+}
+
+@media(max-width: 846px) {
+    .companies-table-item{
+        width: 50%;
+    }
+    .latest-jobs-heading-div{
+        flex-direction: column;
+        justify-content: start;
+    }
+    .post-a-job-button{
+    padding: 15px 20px;
+    margin-top: 20px;
+}
+}
+
+@media(max-width: 1262px) {
+
+    .latest-jobs-list-div{
+        flex-wrap: wrap;
+    }
 }

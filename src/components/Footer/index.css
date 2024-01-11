@@ -147,3 +147,49 @@ hr {
 .phone-image{
     height: 100%;
 }
+
+
+
+@media(max-width: 1031px) {
+    .playstore-card-right{
+        display: none;
+    }
+    .Playstore-card-left{
+        width: 98%;
+    }
+    .Download{
+        font-size: 25px;
+    }
+    .your{
+        font-size: 17px;
+    }
+}
+
+@media(max-width: 425px) {
+    .Playstore-card-80{
+        height: auto;
+    }
+    .Playstore-card1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+    .blue-card{
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    }
+    .blue-card-items{
+        width: 50%;
+    }
+    .footer-cp{
+flex-direction: column;
+justify-content: center;        
+    }
+    .footer-icons{
+        margin-left: 20px;
+    }
+
+
+}
+

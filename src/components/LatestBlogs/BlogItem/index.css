@@ -2,7 +2,6 @@
     width: 22%;
     margin-right: 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-
 }
 
 .BlogImage{
@@ -41,4 +40,18 @@ justify-content: flex-start;
 
 .spanelement{
     color: #FFA932;
+}
+
+@media(max-width: 881px) {
+    .Blogitem{
+    width: 45%;
+    margin-right: 5px;
+    }
+}
+
+@media(max-width: 542px) {
+    .Blogitem{
+    width: 95%;
+    margin-right: 0px;
+    }
 }
