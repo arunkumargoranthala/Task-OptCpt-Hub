@@ -1,0 +1,44 @@
+.Blogitem{
+    width: 22%;
+    margin-right: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+}
+
+.BlogImage{
+    width: 100%;
+}
+
+.padding-div{
+    padding: 20px;
+}
+
+.date-text{
+    color: rgba(0, 0, 0, 0.50);
+    font-family: Kumbh Sans;
+    font-size: 12px;
+    margin-right: 10px;
+    margin-left: 4px;
+}
+
+.date-place{
+    display: flex;
+    align-items: center;
+justify-content: flex-start;
+}
+
+.date-time{
+    color: rgba(0, 0, 0, 0.50);
+    font-family: Kumbh Sans;
+    font-size: 12px;
+    margin-left: 4px;
+}
+
+.para-imp{
+    font-family: Poppins;
+    font-size: 14px;
+}
+
+.spanelement{
+    color: #FFA932;
+}

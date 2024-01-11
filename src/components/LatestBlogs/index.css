@@ -1,0 +1,28 @@
+.LatestBlogs{
+    display: flex;
+    justify-content: center;
+}
+
+.LatestBlogs-80{
+    width: 80%;
+}
+
+.Blogs{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.Latest{
+    color: #000;
+    font-family: Roboto;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-bottom: 10px;
+}
+
+.h-imagee{
+    margin-top: 40px;
+}

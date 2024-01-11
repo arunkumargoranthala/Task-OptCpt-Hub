@@ -1,0 +1,20 @@
+.RecentItem{
+    width: 45%;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.RecentItem-title{
+    background-color: #012059;
+    height: 50px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tc{
+    text-align: center;
+    color: #26AA4B;
+}

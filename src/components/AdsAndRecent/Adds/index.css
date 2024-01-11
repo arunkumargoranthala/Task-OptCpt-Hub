@@ -1,0 +1,76 @@
+.Fresher-box{
+    background-color: #fff6ef;
+    padding: 20px;
+     border: 2px solid #f59825;
+     margin-top: 20px;
+}
+
+.fresher-text1{
+    color: #000;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.fresher-text2{
+    color: #000;
+    font-family: Roboto;
+}
+
+.fresher-text-orange{
+    color: #f59825;
+    font-family: Roboto;
+}
+
+.uplod-button{
+    border: none;
+    outline: none;
+    border: 2px dashed #f59825;
+    background-color: #fff6ef;
+    padding: 10px 15px;
+    color: #f59825;
+}
+
+.image-add{
+    width: 100%;
+}
+
+.Fresher-box1{
+    background-color: #F1F3F8;
+    padding: 20px;
+     border: 2px solid #012059;
+     margin-top: 20px;
+}
+
+.input{
+    border: none;
+    outline: none;
+    color: black;
+    border-radius: 15px;
+    height: 45px;
+    width: 100px;
+    padding: 10px;
+}
+
+.input-div{
+    display: flex;
+    align-items: center;
+}
+
+.telegram-button{
+    background-color: #64B5F6;
+    border-radius: 15px;
+    padding: 10px;
+    height: 100%;
+    width: 50px;
+    margin-left: 20px;
+}
+
+.add-box{
+         display: flex;
+     flex-direction: column;
+     justify-content: space-between;
+}
+
+.image-add-div{
+    margin-top: 20px;
+}

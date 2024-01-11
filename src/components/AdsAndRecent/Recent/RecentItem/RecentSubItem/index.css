@@ -1,0 +1,54 @@
+.RecentSubItem{
+  padding: 20px;
+}
+
+.RecentSubItem1{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid #000000;
+}
+
+.RecentSubItem-left-div{
+    display: flex;
+    
+}
+
+.Subtitle{
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-bottom: 0px;
+}
+
+.st1{
+    color: #000;
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.RecentSubItem-right-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ApplyButton{
+    border: none;
+    outline: none;
+    background-color: #fff9f0;
+    padding: 10px;
+    font-family: Poppins;
+}
+
+.side-divv{
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+}

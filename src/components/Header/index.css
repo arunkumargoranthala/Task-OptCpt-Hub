@@ -1,0 +1,166 @@
+.Header1{
+    display: flex;
+    justify-content: center;
+}
+
+.Header180{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+}
+
+
+
+.Register-Button{
+    background-color:rgb(1, 65, 142);
+    border: none;
+    outline: none;
+    margin-right: 15px;
+    padding: 10px 15px;
+    color: white;
+    border-radius: 5px;
+}
+
+.login-Button{
+    background-color: #ff9140;
+    border: none;
+    outline: none;
+    margin-right: 15px;
+    padding: 10px 15px;
+    color: white;
+    border-radius: 5px;
+}
+
+.links-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.intro-card-div{
+    background-image: url("https://res.cloudinary.com/dbomut0aw/image/upload/v1704830638/Project/Rectangle_129_zfvs5x.svg");
+    
+    
+}
+
+.intro-card-div2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.intro-card-div2-left2{
+    display: flex;
+}
+
+.intro-card-div2-left{
+  width: 60%;
+}
+
+.card-image{
+    height: 450px;
+    width: 450px;
+}
+
+.companies-container{
+    display: flex;
+    margin: 30px;
+    justify-content: space-between;
+}
+
+.companies-circle-container{
+  background-color: white;
+  border-radius: 40px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80px;
+  height: 80px;
+}
+
+.links-container{
+    background-color: white;
+    opacity: 0.5;
+}
+
+.over-para{
+    color: white;
+    font-family: Roboto;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 90px; /* 121.622% */
+    font-variant: small-caps;
+    margin-bottom: 0px;
+}
+.what-para{
+    color: #FFF;
+    font-family: Kumbh Sans;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.card-option-container{
+    background-color: rgb(255, 255, 255, 0.75);
+    border-radius: 16px;
+    margin-right: 10px;
+    padding-left: 5px;
+    padding-right: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-image{
+    height: 40px;
+    margin-top: 10px;
+margin-bottom: 10px;
+}
+
+.header-login-button-container{
+    display: flex;
+    align-items: center;
+}
+
+.header2-80{
+    width: 80%;
+}
+
+.header2-80-p{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.intro-card-div2-right{
+    width: 40%;
+}
+
+.search-button{
+   border-radius: 16px;
+    background-color: #4BAC45;
+    border: none;
+    outline: none;
+    padding: 10px 15px;
+    color: white;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100px;
+    font-family: Poppins;
+}
+
+.What-Are-You-Looking-For{
+    margin-left: 10px;
+    margin-right: 20px;
+    font-family: Poppins;
+}
+
+.card-option-container{
+    margin-left: 10px;
+    margin-right: 20px;
+    font-family: Poppins;
+}
+

@@ -1,0 +1,4 @@
+.Recents{
+    display: flex;
+    flex-wrap: wrap;
+}

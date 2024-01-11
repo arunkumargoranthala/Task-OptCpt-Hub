@@ -1,0 +1,67 @@
+.TopResumes{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.TopResumes-80{
+    width: 80%;
+}
+
+.TopResumes-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.TopResumes-header-right{
+    border-radius: 31px;
+    background: rgba(255, 220, 177, 0.50);
+    height: 60px;
+    width: 180px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Topresumep{
+  color: #000;
+    font-family: Roboto;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-bottom: 10px;
+}
+
+.trwho{
+  color: #6C757D;
+    font-family: Poppins;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.ResumeList{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.show-all-button{
+    border-radius: 50px;
+    background: #26AA4B;
+    color: white;
+    border: none;
+    outline: none;
+    padding: 10px 15px;
+}
+
+.show-all-button-div{
+    text-align: center;
+}
+
+.premium{
+    margin-left: 5px;
+}
