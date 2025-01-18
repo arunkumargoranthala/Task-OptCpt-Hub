@@ -1,3 +1,8 @@
+# OPT CPT Hub Homepage using react
+
+This is a sample homepage for OPT CPT hub built using react
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
